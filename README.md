@@ -22,3 +22,13 @@ Please change the permission of the file first.
 
 `chmod +x <filename.py>`  #please put the correct file name and correct terminal location. 
 
+Example: 
+`chmod +x a_star.py`
+
+# To run the file : 
+
+`python3 <filename.py>` # please put the correct file name and correct terminal location. 
+
+Example: 
+`python3 a_start.py`
+
