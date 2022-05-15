@@ -18,6 +18,12 @@ you can verify this by checking Git Version:
 
 # To use the package : 
 
+Go to package directory:
+`cd ~/fhwsitw2022`
+
+Type `ls` to see whether the package is shown: 
+`ls`
+
 Please change the permission of the file first.
 
 `chmod +x <filename.py>`  #please put the correct file name and correct terminal location. 
