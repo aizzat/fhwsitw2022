@@ -12,6 +12,7 @@ you can verify this by checking Git Version:
 
 
 # To download the package: 
+`cd ~`
 
 `git clone https://github.com/aizzat/fhwsitw2022`
 
